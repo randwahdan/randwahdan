@@ -36,3 +36,8 @@ I'm a Full Stack Web developer who is passionate about building and contributing
 <img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png" width="40" height="40" alt="angular" title="SQL Server"/>
 </p>
 
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=randwahdan&show_icons=true&locale=en&layout=compact" alt="randwahdan" /></p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=randwahdan&show_icons=true&locale=en" alt="randwahdan" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=randwahdan&" alt="randwahdan" /></p>
