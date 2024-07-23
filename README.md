@@ -4,7 +4,7 @@ Hi <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="
 <p align="center">
 <img src="https://media0.giphy.com/avatars/popcon_/Sv9pIvGah8jm.gif" width="35%">
 </p>
-I'm a Full Stack Web developer who is passionate about building and contributing to projects that increase productivity, but I embrace being a beginner and believe there is always something to learn or improve!
+I'm a Full Stack Web developer who is passionate about building and contributing to projects that increase productivity, 🐣 I embrace being a beginner and believe there is always something to learn or improve!
 
 
 - 👩🏻‍💻 Some of my projects are available here, at [here](https://github.com/randwahdan?tab=repositories)
