@@ -33,14 +33,14 @@ I'm a Full Stack Web developer who is passionate about building and contributing
 <img src="https://cdn.icon-icons.com/icons2/2107/PNG/512/file_type_vscode_icon_130084.png" width="40" height="40" alt="vscode" title="Visual Studio Code"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/29/Postgresql_elephant.svg/1200px-Postgresql_elephant.svg.png" alt="pgsql" width="40" height="40" title="PostgreSQL"/>
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/2/2c/Visual_Studio_Icon_2022.svg/2048px-Visual_Studio_Icon_2022.svg.png" width="40" height="40" alt="vs2022" title="Visual Studio 2022"/>
-<img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png" width="40" height="40" alt="angular" title="SQL Server"/>
+<img src="https://e7.pngegg.com/pngimages/1/866/png-clipart-microsoft-sql-server-sql-server-management-studio-computer-servers-microsoft-angle-text.png" width="40" height="40" alt="sql" title="SQL Server"/>
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/91/Octicons-mark-github.svg/900px-Octicons-mark-github.svg.png" width="40" height="40" alt="github" title="github"/>
 </p>
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=randwahdan&show_icons=true&locale=en&layout=compact&theme=dark" alt="randwahdan" height="200" style="display: inline-block;"/>
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=randwahdan&theme=dark" alt="randwahdan" height="200" style="display: inline-block;"/>
 </p>
 
-
-
+<p align="center">
 <img alt="GitHub Snake" src="https://raw.githubusercontent.com/randwahdan/randwahdan/output/github-contribution-grid-snake.svg" />
+</p>
